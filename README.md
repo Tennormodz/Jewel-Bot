@@ -26,11 +26,13 @@ JEWEL is a multi-device bot designed to enhance your WhatsApp conversations with
 
 2. Obtain a bot session: 
 
-   [Session-1](https://zkscan.onrender.com)  <br>
-   [Session-2](https://zokouscan.onrender.com) <br>
+   [Pair CODE]  ***[`TAP HERE TO SCAN Jewel pair CODE`](https://jewelpair-16bde1cc0bdf.herokuapp.com/pair)***
+   
+    [QR CODE]  ***[`TAP HERE TO SCAN Jewel QR CODE`](https://ibrahim-tech-qr-1-2-1.onrender.com/)***
+   
 
 
-3. Deploy
+4. Deploy
    - **Heroku Deployment:**
      1. If you don't have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
      2. Click [**here**](https://dashboard.heroku.com/new?template=[https://github.com/Tennormodz/Jewel-Bot] to deploy the bot on **Heroku**.
