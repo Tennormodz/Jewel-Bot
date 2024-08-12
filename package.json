@@ -1,5 +1,5 @@
 {
-  "name": "zokou-2.0",
+  "name": "jewel-2.0",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -14,13 +14,13 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Zokou",
+    "Jewel",
     "whatsapp",
     "whatsapp-bot",
     "Fedora",
     "FaouzKK"
   ],
-  "author": "Fedora && FaouzKK",
+  "author": "Tennor Tech&& Rhodvick Tech",
   "license": "ISC",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
