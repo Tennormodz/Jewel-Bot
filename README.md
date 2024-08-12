@@ -1,28 +1,28 @@
-# Zokou-2.0
+# JEWEL-2.0
 
 
 
-Zokou is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether managing files, interacting with stickers, or facilitating group management, Zokou is here to assist you.
+JEWEL is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether managing files, interacting with stickers, or facilitating group management, Zokou is here to assist you.
 
 ## Key Features
 
-- **File Download:** Zokou can download audio and video files from links you send, making it easy to share them with your contacts.
+- **File Download:** JEWEL can download audio and video files from links you send, making it easy to share them with your contacts.
 
-- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to Zokou.
+- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to JEWEL.
 
-- **Group Management:** Zokou offers group management features, such as adding or removing members, configuring rules, and other settings.
+- **Group Management:** JEWEL offers group management features, such as adding or removing members, configuring rules, and other settings.
 
 - **Text to Img:** The best logos have been selected for your convenience.
 
 ## Fun Features
 
-- **Jokes and Riddles:** Zokou comes with a collection of jokes and riddles to liven up your conversations.
+- **Jokes and Riddles:** JEWEL comes with a collection of jokes and riddles to liven up your conversations.
 
 - **Inspiring Quotes:** Receive inspiring quotes to motivate you daily.
 
-## Get Zokou
+## Get JEWEL
 
-1. Click on **[Fork](https://github.com/Luffy2ndAccount/Zokou-english-v/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
+1. Click on **[Fork](https://github.com/Tennormodz/Jewel-Bot/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
 
 2. Obtain a bot session: 
 
@@ -33,26 +33,26 @@ Zokou is a multi-device bot designed to enhance your WhatsApp conversations with
 3. Deploy
    - **Heroku Deployment:**
      1. If you don't have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
-     2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Luffy2ndAccount/Zokou-english-v) to deploy the bot on **Heroku**.
+     2. Click [**here**](https://dashboard.heroku.com/new?template=[https://github.com/Tennormodz/Jewel-Bot] to deploy the bot on **Heroku**.
 
 ## Contributions
 
-Contributions to Zokou are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to JEWEL are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
-   thinks to these persons ;
+   thanks to these persons ;
 
-   **Fatao** who added commands (Fancy, gpt, dalle, apk); <br>
+   **RHODVICK TECH** who added commands (Fancy, gpt, dalle, apk); <br>
 
-   **CrazyPrice** who hosted a second website for the session_id;
+   **TENNOR MODZ** who hosted a second website for the session_id;
 
 ## License
 
 The WhatsApp Bot Zokou is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the WhatsApp Bot Zokou to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the WhatsApp Bot JEWEL to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developers:
 
-- [**Djalega++**](https://github.com/djalega8000/Zokou-MD/)
-- [**᚛M๏𝓷keℽ D Lบffy᚜**](https://github.com/Faouz995)
+- [**RHODVICK TECH**](https://github.com/Rhodvick)
+- [**TENNOR MODZ**](https://github.com/Tennormodz)
 
