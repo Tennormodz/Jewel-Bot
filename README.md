@@ -22,9 +22,11 @@ JEWEL is a multi-device bot designed to enhance your WhatsApp conversations with
 
 ## Get JEWEL
 
-1. Click on **[Fork](https://github.com/Tennormodz/Jewel-Bot/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
+1. Click on
+  
+    - <a href="https://GitHub.com/Tennormodz/Jewel-bot/fork"><img src="https://img.shields.io/badge/Fork%20My%20Repository-blue" alt="Fork my repository" width="300"></a>to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
 
-2. Obtain a bot session: 
+4. Obtain a bot session: 
 
    [Pair CODE]  ***[`TAP HERE TO SCAN Jewel pair CODE`](https://jewelpair-16bde1cc0bdf.herokuapp.com/pair)***
    
@@ -32,7 +34,7 @@ JEWEL is a multi-device bot designed to enhance your WhatsApp conversations with
    
 
 
-4. Deploy
+5. Deploy
    - **Heroku Deployment:**
      1. If you don't have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
      2. Click [**here**](https://dashboard.heroku.com/new?template=[https://github.com/Tennormodz/Jewel-Bot] to deploy the bot on **Heroku**.
