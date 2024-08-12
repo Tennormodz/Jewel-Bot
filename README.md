@@ -20,6 +20,15 @@ JEWEL is a multi-device bot designed to enhance your WhatsApp conversations with
 
 - **Inspiring Quotes:** Receive inspiring quotes to motivate you daily.
 
+![1000545926](https://telegra.ph/file/d751fedddd7979aecd7a2.jpg)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ <h1 align="center">Jewel MD </h1>
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
 ## Get JEWEL
 
 1. Click on
