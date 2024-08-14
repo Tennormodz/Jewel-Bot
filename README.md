@@ -67,7 +67,7 @@ Contributions to JEWEL are welcome! If you have ideas for new features, improvem
 
 ## License
 
-The WhatsApp Bot Zokou is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot Jewel is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the WhatsApp Bot JEWEL to enhance your conversations and make your WhatsApp experience more interesting!
 
