@@ -48,8 +48,21 @@
 **3.Create an account on UPTIME TO MAKE YOUR RENDER BOT STABLE**
 - <a href="https://uptimerobot.com"><img title="Deploy Now" src="https://img.shields.io/badge/CREATE NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
+***
+
+#### SUPPORT THE PROJECT 
+1. **JOIN OUR SUPPORT GROUP**
+- <a href="https://chat.whatsapp.com/Dy45nOiMm8ECJLdIR2wBbB" target="_blank">
+    <img alt="CLICK HERE" src="https://img.shields.io/badge/ JOIN NOW 🚀 -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
+
+  </a>
+2. **FOLLOW OUR WHATSAPP CHANNEL**
+
+- <a href="https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D" target="_blank">
+    <img alt="CLICK HERE " src="https://img.shields.io/badge/ FOLLOW NOW  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 
 ## Contributions
 
