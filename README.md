@@ -2,24 +2,6 @@
 
 
 
-JEWEL is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether managing files, interacting with stickers, or facilitating group management, Zokou is here to assist you.
-
-## Key Features
-
-- **File Download:** JEWEL can download audio and video files from links you send, making it easy to share them with your contacts.
-
-- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to JEWEL.
-
-- **Group Management:** JEWEL offers group management features, such as adding or removing members, configuring rules, and other settings.
-
-- **Text to Img:** The best logos have been selected for your convenience.
-
-## Fun Features
-
-- **Jokes and Riddles:** JEWEL comes with a collection of jokes and riddles to liven up your conversations.
-
-- **Inspiring Quotes:** Receive inspiring quotes to motivate you daily.
-
 ![1000545926](https://telegra.ph/file/d751fedddd7979aecd7a2.jpg)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -54,6 +36,20 @@ JEWEL is a multi-device bot designed to enhance your WhatsApp conversations with
  
 **2. If You Have a Heroku Account**
   - <a align="center"><a href="https://dashboard.heroku.com/new?button-url=https://github.com/Tennormodz/Jewel-Bot&template=https://github.com/Tennormodz/Jewel-Bot.git"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+#### DEPLOY ON RENDER 
+**1. If You Don't Have An Account On Render**
+- <a href="https://dashboard.render.com/register"><img src="https://img.shields.io/badge/CREATE AN ACCOUNT NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+**2. If You Have an account on Render**
+- <a href="https://render.com"><img title="Deploy Now" src="https://img.shields.io/badge/DEPLOY NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+
+
+**3.Create an account on UPTIME TO MAKE YOUR RENDER BOT STABLE**
+- <a href="https://uptimerobot.com"><img title="Deploy Now" src="https://img.shields.io/badge/CREATE NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+
+
 
 ## Contributions
 
